@@ -55,3 +55,9 @@ SELECT m.id_medico, m.nombre, m.apellido, s.fecha_inicio
 FROM medicos m
 JOIN sustituciones s ON m.id_medico = s.id_medico_sustituto
 WHERE s.fecha_fin IS NULL;
+
+-- 10.  **Promedio de horas de consulta por médico por día de la semana**
+SELECT dia_semana, AVG(horas_consulta) AS promedio_horas
+FROM horarios_medicos
+GROUP BY dia_semana;
+
