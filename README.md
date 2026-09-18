@@ -83,16 +83,16 @@ de esta use la tabla horarios mmedicos y use el AVG para sacar el promedio y com
 
 # Ejercicio 13
 
-# Ejercicio
+# Ejercicio 14
 
-# Ejercicio
+# Ejercicio 15
 
-# Ejercicio
+# Ejercicio 16
 
-# Ejercicio
+# Ejercicio 17
 
-# Ejercicio
+# Ejercicio 18
 
-# Ejercicio
+# Ejercicio 19
 
-# Ejercicio
+# Ejercicio 20
