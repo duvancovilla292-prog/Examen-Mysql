@@ -15,3 +15,5 @@ junto con el diagrama de entidades que es el siguiente
 y acontinuacion realice la creacion de las tablas en Mysql atraves de la herramienta de workbech
 
 <img width="215" height="277" alt="image" src="https://github.com/user-attachments/assets/385c28af-18fd-41df-9618-fae6ea4b7f3f" />
+
+y se insertaron datos los archivos necesarios para ello estan en la carpeta "2 Cracion de tablas y insert de datos"
