@@ -71,4 +71,28 @@ esta es practicamente lo mismo que el 5 solo que para q sea diferente le puse ma
 
 <img width="754" height="419" alt="image" src="https://github.com/user-attachments/assets/982070c0-7ebd-4f92-ba89-a102cd18e6d4" />
 
+# Ejercicio 10.  **Promedio de horas de consulta por médico por día de la semana**
+de esta use la tabla horarios mmedicos y use el AVG para sacar el promedio y como lo e dicho antes el resto lo explique anteriormente
+
+
+<img width="754" height="419" alt="image" src="https://github.com/user-attachments/assets/b5552b7f-c65f-47d9-ac09-e631c48670f4" />
+
+# Ejercicio 11
+
+# Ejercicio 12
+
+# Ejercicio 13
+
+# Ejercicio
+
+# Ejercicio
+
+# Ejercicio
+
+# Ejercicio
+
+# Ejercicio
+
+# Ejercicio
+
 # Ejercicio
