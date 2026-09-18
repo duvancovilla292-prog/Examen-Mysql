@@ -24,3 +24,22 @@ Despues de esto se procedio a la rfealizacion del primer ejercicio atraves de un
 <img width="754" height="400" alt="image" src="https://github.com/user-attachments/assets/c430ae2c-2203-414b-9371-a4f2657a7364" />
 
 
+# Ejercicio 2. **Total de días de vacaciones planificadas y disfrutadas por cada empleado**
+en este lo unico diferente que hice es pener el COALESCE(v.dias_planificados, 0) AS dias_planificados, que lo que hace en pocas palabras es que si no en cuentra nada en v.dias_planificados simplemente devuelva 0 y ya de resto es practicamente la misma explicacion de la uno solo que con otras variaciones como que no use el group by y ya
+
+<img width="754" height="400" alt="image" src="https://github.com/user-attachments/assets/7e2968a4-e4c1-4e32-ad9b-c44e12dac27c" />
+
+
+# Ejercicio 
+
+
+# Ejercicio 
+
+
+# Ejercicio 
+
+
+# Ejercicio 
+
+
+# Ejercicio 
