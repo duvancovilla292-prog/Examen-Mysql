@@ -30,16 +30,26 @@ en este lo unico diferente que hice es pener el COALESCE(v.dias_planificados, 0)
 <img width="754" height="400" alt="image" src="https://github.com/user-attachments/assets/7e2968a4-e4c1-4e32-ad9b-c44e12dac27c" />
 
 
-# Ejercicio 
+# Ejercicio 3. **Médicos con mayor cantidad de horas de consulta en la semana**
+en esta use la SUM en SUM(h.horas_consulta) y la llame como total_horas_semana esto ya q el punto pedia el total de horas de consulta y de mayor cantidad y como eso lo tengo en otra tabla llamada horarios medicos saque de alli lo necesario usando join y usando on para comparar cuales tenian el mismo ID del que buscaba para hacer la suma con SUM y lo otro de diferente que tiene pues es que tiene un ORDER BY que lo que hace es acomodarlo del mas grande al mas chico con DESC y ya
+
+<img width="754" height="291" alt="image" src="https://github.com/user-attachments/assets/9323e5fe-cdb6-417a-9f23-26d7b1623f63" />
 
 
-# Ejercicio 
+# Ejercicio 4.  **Número de sustituciones realizadas por cada médico sustituto**
+en este fue practicamente lo mismo que el primero asi que no tengo practicamente nada que explicar lo unico es que en ves de pacientes fue con los sustitutos
+
+<img width="754" height="291" alt="image" src="https://github.com/user-attachments/assets/5b7f8e44-d486-446c-b1e7-38539a2d9146" />
 
 
-# Ejercicio 
+# Ejercicio -- 5.  **Número de médicos que están actualmente en sustitución**
+y esta fue mas facil simplemente agarre la tabla de sustituciones conte con COUNT cuantos habia y puse una condiciuon de donde la fecha fin fuera NULL ya q eso significaria que no ha terminado su sustitucion
+
+<img width="754" height="291" alt="image" src="https://github.com/user-attachments/assets/a4cccb2f-2ad7-4fc9-bc60-17567975e01b" />
 
 
-# Ejercicio 
+
+# Ejercicio -- 6. **Horas totales de consulta por médico por día de la semana**
 
 
 # Ejercicio 
