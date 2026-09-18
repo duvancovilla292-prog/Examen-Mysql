@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="lQCSpSiGv3aSAPjKQ8Rw">
+    <mxGraphModel dx="1501" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-7" edge="1" parent="1" source="NyKNNFz34U5ThrsdSEKo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NyKNNFz34U5ThrsdSEKo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-8" edge="1" parent="1" source="NyKNNFz34U5ThrsdSEKo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NyKNNFz34U5ThrsdSEKo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-9" edge="1" parent="1" source="NyKNNFz34U5ThrsdSEKo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NyKNNFz34U5ThrsdSEKo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-10" edge="1" parent="1" source="NyKNNFz34U5ThrsdSEKo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NyKNNFz34U5ThrsdSEKo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-2" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Medicos&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="50" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-3" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Pacientes&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="240" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-4" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;sustituciones&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="340" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-5" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;vacaciones_medicos&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="340" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-6" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;horarios_medicos&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="240" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-14" edge="1" parent="1" source="NyKNNFz34U5ThrsdSEKo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NyKNNFz34U5ThrsdSEKo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-11" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Empleados&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="50" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="NyKNNFz34U5ThrsdSEKo-12" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;vacaciones_empleados&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="155" x="245" y="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
