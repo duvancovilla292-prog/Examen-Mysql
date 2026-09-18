@@ -49,7 +49,10 @@ y esta fue mas facil simplemente agarre la tabla de sustituciones conte con COUN
 
 
 
-# Ejercicio -- 6. **Horas totales de consulta por médico por día de la semana**
+# Ejercicio 6. **Horas totales de consulta por médico por día de la semana**
+en este simplemente agarre la tabla de medicos y la de los horarios de medicos mire con on cuales eran igual los id de los medicos de la tabla medico con los de sus horarios
+
+<img width="754" height="419" alt="image" src="https://github.com/user-attachments/assets/af308a63-b73f-4f85-b622-b001ba5c7a2e" />
 
 
 # Ejercicio 
