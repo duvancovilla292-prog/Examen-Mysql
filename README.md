@@ -55,4 +55,20 @@ en este simplemente agarre la tabla de medicos y la de los horarios de medicos m
 <img width="754" height="419" alt="image" src="https://github.com/user-attachments/assets/af308a63-b73f-4f85-b622-b001ba5c7a2e" />
 
 
-# Ejercicio 
+# Ejercicio 7.  **Médico con mayor cantidad de pacientes asignados**
+la verdad todo lo que hice en este ya lo explique pero  voy de nuevo super simple primero aparte del selet use el COUNT(p.id_paciente) para contar la cantidad de pacientes uni las tabla de medicos y pacientes como en el primero  y tamvbien use el GROUP BY solo que de agg el ORDER BY en DESC para tener de primero el q mas tiene y con el LIMIT 1 es para que solo me muestre el q mas tiene el primero
+
+<img width="754" height="419" alt="image" src="https://github.com/user-attachments/assets/684a151a-5a16-4f41-a2dd-e20dc0f28e38" />
+
+
+# Ejercicio 8. **Empleados con más de 10 días de vacaciones disfrutadas**
+la verdad ya explique todo lo de este antes asi que lo voy a omitir por temas de time y paso a slo decir que coloque una condicion con where y > 10 para cumplir con esta consulta
+
+<img width="754" height="419" alt="image" src="https://github.com/user-attachments/assets/8a5b167c-0ba8-4be2-a6fa-8f523ea868c5" />
+
+# Ejercicio 9.  **Médicos que actualmente están realizando una sustitución**
+esta es practicamente lo mismo que el 5 solo que para q sea diferente le puse mas info yha que dice medicos en ves de mostrar la cantidad
+
+<img width="754" height="419" alt="image" src="https://github.com/user-attachments/assets/982070c0-7ebd-4f92-ba89-a102cd18e6d4" />
+
+# Ejercicio
